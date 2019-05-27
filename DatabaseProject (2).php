@@ -2,12 +2,14 @@
 <head>
 <title>Query Video Games</title>
 <body>
-
+		//Add game label photos
 <img src= "2396871-battlefield4.jpeg" height = 100px width = 100px " alt="BattleField 4 Image">
 <img src= "597965.jpg" height = 100px width = 100px " alt="Call of Duty: Black Ops III Image">
 <img src= "Battlefield_1_cover_art.jpg" height = 100px width = 100px " alt="BattleField 1 Image">
 <img src= "minecraft.jpg" height = 100px width = 100px " alt="MineCraft Image">
 <a href="#" class="myButton">pink</a>
+	
+	//Get games from the database
 <?php
 
 $servername = localhost;
